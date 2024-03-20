@@ -1,5 +1,5 @@
 
-## Academic Spot - Machine Learning Analysis
+## Job Recession Prediciton
 
 This repository contains Python code for conducting a machine learning analysis related to predicting job recessions in India. The project is organized into several sections:
 

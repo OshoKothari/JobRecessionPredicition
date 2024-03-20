@@ -22,3 +22,9 @@ This repository contains Python code for conducting a machine learning analysis 
 9. **Particle Swarm Optimization (PSO):** Performance metrics of models optimized using PSO are also displayed in a separate bar plot.
 
 The code is well-documented with comments to explain each step and facilitate understanding and further development of the machine learning analysis. It provides a comprehensive framework for analyzing economic data and predicting job recessions using machine learning algorithms.
+
+**Contributing:**
+Contributions are welcome! If you have suggestions, feature requests, or want to report issues, please open an issue or create a pull request.
+
+**Authors:**
+- [Osho Kothari](https://github.com/OshoKothari)
